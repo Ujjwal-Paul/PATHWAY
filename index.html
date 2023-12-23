@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PATHWAY</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="./img/logo.png">
+</head>
+
+<body>
+
+    <nav>
+        <div class="logo">
+            <img src="./img/logo.png">
+            <a href="/index.html">PATHWAY</a>
+        </div>
+        <div class="actions">
+            <div class="start btn" type="1">Start</div>
+            <div class="end btn" type="2">End</div>
+            <div class="wall btn" type="3">Walls</div>
+            <div class="algo btn" type="4">Algorithms
+                <div class="options hide">
+                    <p type="1">Breadth-First Search</p>
+                    <p type="2">Depth-First Search</p>
+                    <p type="3">A* Search</p>
+                    <p type="4">Best-First Search</p>
+                    <p type="5">Bidirectional BFS Search</p>
+                </div>
+            </div>
+            <div class="clear btn" type="5">Clear</div>
+            <div class="speed btn" type="6">Speed
+                <div class="speed-options hide">
+                    <p type="1" class="clicked">Fast</p>
+                    <p type="2">Average</p>
+                    <p type="3">Slow</p>
+                </div>
+            </div>
+            <div class="run btn" type="7">Visualize!</div>
+        </div>
+    </nav>
+
+    <div class="description">
+        Put start and end, pick an algorithm and start visualize it!
+    </div>
+
+    <div class="board">
+        <table></table>
+    </div>
+
+    <script src="./src/script.js" type="module"></script>
+</body>
+
+</html>
