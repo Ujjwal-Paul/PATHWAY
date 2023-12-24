@@ -1,6 +1,6 @@
-# PATHWAY - Pathfinding Visualizer
+# [PATHWAY](https://ujjwal-paul.github.io/PATHWAY/) - Pathfinding Visualizer
 
-PATHWAY is a web-based pathfinding visualizer that allows users to interactively explore and visualize various pathfinding algorithms on a grid. This tool is designed to help users understand the mechanics of different algorithms and observe their performance in finding the shortest path from a starting point to an endpoint.
+[PATHWAY](https://ujjwal-paul.github.io/PATHWAY/) is a web-based pathfinding visualizer that allows users to interactively explore and visualize various pathfinding algorithms on a grid. This tool is designed to help users understand the mechanics of different algorithms and observe their performance in finding the shortest path from a starting point to an endpoint.
 
 ## Features
 
@@ -15,7 +15,7 @@ PATHWAY is a web-based pathfinding visualizer that allows users to interactively
 
 **Depth-First Search (DFS):** Unweighted algorithm. May not guarantee the shortest path. Explores as far as possible along each branch before backtracking.
 
-**A* Search:** Weighted algorithm. Uses a heuristic to estimate the cost from the start to the goal. Combines the cost to reach the current node and the heuristic cost.
+**A\* Search:** Weighted algorithm. Uses a heuristic to estimate the cost from the start to the goal. Combines the cost to reach the current node and the heuristic cost.
 
 **Best-First Search:** Weighted algorithm. Chooses the path that seems most promising based on heuristic evaluation. Doesn't guarantee the shortest path.
 
@@ -23,7 +23,7 @@ PATHWAY is a web-based pathfinding visualizer that allows users to interactively
 
 ## Usage
 
-1. Open the PATHWAY website [here](https://ujjwal-paul.github.io/PATHWAY/).
+1. Open the PATHWAY website <a href="https://ujjwal-paul.github.io/PATHWAY/" target="_blank" style="text-decoration: none;">here</a>.
 2. Place start and end points on the grid.
 3. Add walls or obstacles if needed.
 4. Choose an algorithm from the available options.
