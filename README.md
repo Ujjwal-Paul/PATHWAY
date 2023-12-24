@@ -23,7 +23,7 @@
 
 ## Usage
 
-1. Open the PATHWAY website <a href="https://ujjwal-paul.github.io/PATHWAY/" target="_blank" style="text-decoration: none;">here</a>.
+1. Open the PATHWAY website [here](https://ujjwal-paul.github.io/PATHWAY/).
 2. Place start and end points on the grid.
 3. Add walls or obstacles if needed.
 4. Choose an algorithm from the available options.
