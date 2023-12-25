@@ -1,6 +1,8 @@
 # PATHWAY - Pathfinding Visualizer
 Welcome to PATHWAY, an interactive playground for exploring pathfinding algorithms visually! This application was born during my exploration of various pathfinding algorithms while studying Artificial Intelligence in my semester. I built this tool to visualize and better understand these algorithms in action. I hope you find it as enjoyable to use as I did creating it. You can visit PATHWAY [here](https://ujjwal-paul.github.io/PATHWAY/).
 
+## Demo Video
+https://github.com/Ujjwal-Paul/PATHWAY/assets/128069799/2863af7f-ab2f-4593-9afc-cf4184f1986b
 
 ## Algorithms
 
