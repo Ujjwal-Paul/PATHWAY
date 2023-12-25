@@ -1,13 +1,6 @@
-# [PATHWAY](https://ujjwal-paul.github.io/PATHWAY/) - Pathfinding Visualizer
+# PATHWAY - Pathfinding Visualizer
+Welcome to PATHWAY, an interactive playground for exploring pathfinding algorithms visually! This application was born during my exploration of various pathfinding algorithms while studying Artificial Intelligence in my semester. I built this tool to visualize and better understand these algorithms in action. I hope you find it as enjoyable to use as I did creating it. You can visit PATHWAY [here](https://ujjwal-paul.github.io/PATHWAY/).
 
-[PATHWAY](https://ujjwal-paul.github.io/PATHWAY/) is a web-based pathfinding visualizer that allows users to interactively explore and visualize various pathfinding algorithms on a grid. This tool is designed to help users understand the mechanics of different algorithms and observe their performance in finding the shortest path from a starting point to an endpoint.
-
-## Features
-
-- **User-Friendly Interface:** Easily add start and end points, create walls, and choose algorithms with intuitive buttons.
-- **Algorithm Descriptions:** Gain insights into each algorithm with brief descriptions displayed upon selection.
-- **Speed Control:** Adjust the visualization speed to observe the algorithm's progress at your preferred pace.
-- **Visualization Details:** After visualization, view the number of cells visited and the length of the generated path.
 
 ## Algorithms
 
@@ -20,6 +13,14 @@
 **Best-First Search:** Weighted algorithm. Chooses the path that seems most promising based on heuristic evaluation. Doesn't guarantee the shortest path.
 
 **Bidirectional BFS Search:** Combines two BFS searches, one from the start and one from the end. Reduces the search space and improves efficiency.
+
+## Features
+
+- **User-Friendly Interface:** Easily add start and end points, create walls, and choose algorithms with intuitive buttons.
+- **Algorithm Descriptions:** Gain insights into each algorithm with brief descriptions displayed upon selection.
+- **Speed Control:** Adjust the visualization speed to observe the algorithm's progress at your preferred pace.
+- **Visualization Details:** After visualization, view the number of cells visited and the length of the generated path.
+
 
 ## Usage
 
